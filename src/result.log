@@ -1,0 +1,2 @@
+./ServerConnection.h: In member function ‘zertcore::uint zertcore::net::ServerConnection::handleRequest()’:
+./ServerConnection.h:217: warning: format ‘%d’ expects type ‘int’, but argument 4 has type ‘const zertcore::net::Encrypt’
